@@ -22,7 +22,7 @@ See [live mode](https://dev-clone.nuxtjs.app/).
 
 ```sh
 # clone the project
-git clone https://github.com/bdrtsky/nuxt-dev-to-clone.git
+git clone https://github.com/One-cy/nuxt-dev-to-clone.git
 
 # install dependencies
 npm install
